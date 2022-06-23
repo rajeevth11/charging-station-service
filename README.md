@@ -29,11 +29,11 @@ http://localhost:8080/charging-station-service/api/companies/2
 
 
 ### Docmentation
-#Swagger
-http://localhost:8080/swagger-ui.html
+# Swagger
+# http://localhost:8080/swagger-ui.html
 ![image](https://user-images.githubusercontent.com/106370202/175293944-437ad5b5-78db-4eae-b90d-f4a91e6bc053.png)
 
-#postman 
+# postman 
 
 https://documenter.getpostman.com/view/15029798/UzBqnQE3
 
