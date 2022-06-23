@@ -3,7 +3,7 @@ Managing a Charging Station using Rest API
 
 ## Introduction
 
-This aplication will allowed user to setup Companies and Stations for electical charging vahicles. Useres will allow to find a nearest sation for a requested company.
+This aplication will allowed user to setup Companies and Stations for electical charging of vehicles. Useres will allow to find a nearest sation for a requested company.
 
 ## Requiremens
 - Java 8
