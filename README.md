@@ -12,7 +12,7 @@ This aplication will allowed user to setup Companies and Stations for electical 
 - My SQL
 
 ## Build the Project
-- Clone the project from [https://github.com/rajeevth11/drone-manager-service.git](https://github.com/rajeevth11/charging-station-service.git)
+- Clone the project from [https://github.com/rajeevth11/charging-station-service.git](https://github.com/rajeevth11/charging-station-service.git)
 - Apply the **src/main/resources/db_script/charging_station.sql** into your mysql database.
 - Set the **src/main/resources/application.properties** with your DB configuratons.
 - Build the maven project using `mvn clean install`
